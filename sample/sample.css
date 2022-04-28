@@ -1,0 +1,15 @@
+/* 
+go run main.go -p "./sample/*.css" -c #0000FF,#0000FF,#0000FF,#0000FF,#0000FF,#0000FF,#0000FF,#0000FF,#0000FF
+*/
+
+* {
+  color: #000001;
+  color: #333334;
+  color: #666667;
+  color: #99999A;
+  color: #CCCCCD;
+  color: #FFFFFE;
+  color: #FF0001;
+  color: #00FF01;
+  color: #0000FE;
+}
